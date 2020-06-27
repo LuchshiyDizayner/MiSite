@@ -1,0 +1,109 @@
+body {
+    background-color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 36px;
+}
+
+.yellow {
+    color:rgba(255, 245, 0, 1);
+    position: absolute;
+    width: 930px;
+    height: 123px;
+    left: 511px;
+    top: 101px;
+}
+
+.green {
+    color:rgba(36, 255, 0, 1);
+    position: absolute;
+    width: 1016px;
+    height: 82px;
+    left: 73px;
+    top: 508px;
+}
+
+.pink {
+    color:rgba(231, 0, 180, 1);
+    position: absolute;
+    width: 614px;
+    height: 123px;
+    left: 888px;
+    top: 817px;
+}
+
+.blue {
+    color:rgba(0, 255, 209, 1);
+    position: absolute;
+    width: 1042px;
+    height: 123px;
+    left: 204px;
+    top: 1188px;
+}
+
+.red {
+    text-decoration: none;
+    color:rgba(231, 42, 0, 1);
+    position: absolute;
+    width: 298px;
+    height: 41px;
+    left: 1049px;
+    top: 1423px;
+}
+
+.yellow-2 {
+    color:rgba(255, 245, 0, 1);
+    position: absolute;
+    width: 313px;
+    height: 41px;
+    left: 824px;
+    top: 1972px;
+    transform: rotate(-90deg);
+}
+
+.green-2 {
+    color:rgba(36, 255, 0, 1);
+    position: absolute;
+    width: 600px;
+    height: 41px;
+    left: 567px;
+    top: 2711px;
+}
+
+.chan {
+    position: absolute;
+    width: 585px;
+    height: 941px;
+    left: 169px;
+    top: 1580px;
+    border:1px solid white;
+    padding: 10px;
+}
+
+.vk {
+    position: absolute;
+    height: 136px;
+    left: 1131px;
+    top: 1768px;
+}
+
+.inst {
+    position: absolute;
+    height: 136px;
+    left: 1131px;
+    top: 1966px;
+}
+
+.bh {
+    position: absolute;
+    height: 136px;
+    left: 1131px;
+    top: 2164px;
+}
+
+.video {
+    position: absolute;
+    width: 1265px;
+    height: 775px;
+    left: 178px;
+    top: 2790px;
+}
